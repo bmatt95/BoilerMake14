@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "fetch": 1,
+        "init": 0,
+        "price": 3,
+        "symbol": 2
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Financial Corp",
+    "longName": "WatchStock+Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "WS+P",
+    "uuid": "2a3352d5-2d44-437f-9652-98464640aeab",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
