@@ -14,7 +14,7 @@ var server = http.createServer(function(req, res) {
             console.log("ok!");
         }
     });
-    exec('InfoGetterBat.bat', function(err, data) {
+    exec('stockLookup.bat', function(err, data) {
         console.log(err)
         console.log(data.toString());
     });
